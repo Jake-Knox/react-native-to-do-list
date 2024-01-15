@@ -8,5 +8,5 @@ A simple React Native project created with Expo.
 - [Expo CLI](https://docs.expo.dev/get-started/installation/) installed
 
 ### Useful links
-https://reactnative.dev/docs/environment-setup?guide=quickstart
-https://reactnative.dev/docs/getting-started
+- https://reactnative.dev/docs/environment-setup?guide=quickstart
+- https://reactnative.dev/docs/getting-started
